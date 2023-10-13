@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293124488959",
+    "project_id": "crudtodo-abdb5",
+    "storage_bucket": "crudtodo-abdb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293124488959:android:fb2926ca9aceb7050fd6ca",
+        "android_client_info": {
+          "package_name": "com.example.todo_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-qB9cmAF0ZhzrUjlphpjmPrbgFzZZCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
